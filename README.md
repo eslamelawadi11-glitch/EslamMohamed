@@ -1,4 +1,4 @@
-**Eslam Mohamed Sobhi | Intern at Gammal Tech**  
+# Eslam Mohamed Sobhi | Intern at Gammal Tech
 Building secure and seamless user authentication experiences with Gammal Tech Web SDK.
 
 ---
